@@ -1,4 +1,4 @@
-b377207d4fb4b9818a5450aca739a2af *DESCRIPTION
+dd120d73294ab428e5bb9079fe068df8 *DESCRIPTION
 ee2f644f0bc4d47f846e5944ad65325b *NAMESPACE
 60fd920a471652f634406a31e7356254 *R/bachelier_impvol.R
 a22bab0567e7e1cc33f771f00927564c *R/bachelier_price.R
@@ -6,12 +6,13 @@ a22bab0567e7e1cc33f771f00927564c *R/bachelier_price.R
 f7de87e8a671499b7d818c8a1c1c13be *R/blackscholes_price.R
 7c03dee2380bc5338c6577a8f8cd0dcc *R/cev_price.R
 7d12e141542a1351b212b10d084e6600 *R/sabr_hagan2002.R
-fc7e06d5c863bc92e4e93df4a8063ff2 *README.md
+07b850319fb6510ffb6120f2aaf61a31 *README.md
+8c4d4b54895d0fc1f701be3cc0e19d40 *build/partial.rdb
 5d6977a1bb10e39b09c522ff4729bbb0 *man/BachelierImpvol.Rd
 b860fe8208c2d8a1a7c3ce0aed4bea21 *man/BachelierPrice.Rd
 0053ebcd0a1df4070ccc10dae3f12caf *man/BlackScholesImpvol.Rd
 e1d6167f31a463f549a22a21333f7893 *man/BlackScholesPrice.Rd
-f6be989764f705167ecc60f59ddc6cac *man/CevPrice.Rd
+a525a78c4051b1711c2cb2904eae622d *man/CevPrice.Rd
 d913744dea2a11408c1ed2c8cb5c2b2f *man/SabrHagan2002.Rd
 c095a509f4f07343ca9e34af96bd9b4b *tests/testthat.R
 12937ad806a04ad4e41784d4734b61e4 *tests/testthat/test-Bachelier.R
